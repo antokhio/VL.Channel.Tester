@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "VL.Channel.Tester": {
+      "commandName": "Project"
+    },
+    "dev": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\vvvv\\vvvv_gamma_7.1-0154-ge6c16c963d-win-x64\\vvvv.exe"
+    }
+  }
+}
