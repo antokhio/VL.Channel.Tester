@@ -7,7 +7,4 @@
   <ItemGroup>
     <PackageReference Include="VL.Core" Version="2025.7.1-0154-ge6c16c963d" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Cases\" />
-  </ItemGroup>
 </Project>
